@@ -1,0 +1,8 @@
+Rocket Example
+1. Assemble Rocket
+   Assemble propellant, Payload, Machine
+2. Move to Launch place
+   Move from A to B
+   Move from B to C
+3. Launch it
+   Launch the rocket
