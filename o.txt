@@ -6,3 +6,5 @@ Rocket Example
    Move from B to C
 3. Launch it
    Launch the rocket
+4. Crash into Pacific Ocean
+   Collect the Garbage
