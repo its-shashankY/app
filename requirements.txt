@@ -1,6 +1,1 @@
-pip uninstall werkzeug
-pip install werkzeug==2.0.3
-python app.py
-pip install --upgrade Flask
-python app.py
-
+Flask==2.3.2
